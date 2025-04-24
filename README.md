@@ -1,18 +1,18 @@
-# 🧾 Docker TODO App
+# Docker TODO App
 
 Este proyecto es una aplicación web de lista de tareas (TODO app) construida utilizando **Node.js**, **Python** y **MkDocs**, diseñada para ilustrar cómo construir, asegurar y desplegar una aplicación contenedorizada aplicando el **Ciclo de Vida de Desarrollo Seguro de Software (S-SDLC)** desde el inicio hasta la ejecución final.
 
 ---
 
-## 🚀 ¿Cómo ejecutar esta aplicación?
+## ¿Cómo ejecutar esta aplicación?
 
-### 📦 Requisitos previos
+### Requisitos previos
 
 - Docker
 - Docker Compose (opcional)
 - Git
 
-### ▶️ Pasos para ejecutar
+### Pasos para ejecutar
 
 ```bash
 # 1. Clonar el repositorio
