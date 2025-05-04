@@ -1,6 +1,6 @@
 
 # Trabajo realizado por: 
-Juan José Castro, Iris Carolina y Daniel Díaz
+Juan José Castro, Iris Carolina Fernandez y Daniel Díaz
 
 # Enlace al repositorio: 
 https://github.com/Juanjo1402/Desarrollo
