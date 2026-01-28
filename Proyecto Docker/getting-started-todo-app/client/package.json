@@ -22,7 +22,7 @@
     "react-dom": "^18.2.0",
     "sass": "^1.70.0",
     "express": "4.16.0",
-    "lodash": "4.17.11",     
+    "lodash": "4.17.23",     
     "marked": "0.3.6"        
   },
   "devDependencies": {
